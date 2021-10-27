@@ -1,0 +1,24 @@
+*{
+    font-family: sans-serif;
+    
+}
+section{
+    background-color: cadetblue;
+}
+#first{
+    padding-top: 100px;
+    text-align: center;
+    
+}
+div{
+    background-color: rgb(82, 155, 106);
+    
+    align-items: center;
+    padding: 30px;
+}
+#second{
+    display: none;
+}
+section{
+    background-color: cadetblue;
+}
